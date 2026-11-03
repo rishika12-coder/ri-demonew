@@ -1,4 +1,4 @@
 # ri-demonew
 This is my first repo.
 <br> 
-Author - Rishika Borse.
+Author - Rishika Borse (2nd year).
